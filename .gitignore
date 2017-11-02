@@ -1,2 +1,4 @@
 TodoApi/bin/
 TodoApi/obj/
+.vs/
+TodoApi/wwwroot/
